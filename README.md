@@ -39,19 +39,19 @@
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║  🎯  FEATURE RICH PORTFOLIO                     ║
+║  🎯  FEATURE RICH PORTFOLIO                      ║
 ╠══════════════════════════════════════════════════╣
-║  🌌  Animated 3D particle starfield background  ║
-║  🧊  Spinning neon wireframe cube, torus & sphere ║
+║  🌌  Animated 3D particle starfield background   ║
+║  🧊  Spinning neon wireframe cube, torus & sphere║
 ║  🖱️  Mouse parallax camera effects               ║
-║  ⌨️  Typewriter hero animation                    ║
+║  ⌨️  Typewriter hero animation                   ║
 ║  🎨  Glassmorphism UI with neon glow accents     ║
-║  📊  Animated skill bars & stat counters          ║
-║  🃏  3D tilt project cards on hover               ║
-║  📱  Fully responsive with burger menu            ║
+║  📊  Animated skill bars & stat counters         ║
+║  🃏  3D tilt project cards on hover              ║
+║  📱  Fully responsive with burger menu           ║
 ║  💫  Scroll-reveal animations everywhere         ║
-║  💬  Interactive contact form UI                  ║
-║  ⚡  Lightweight — zero frameworks used           ║
+║  💬  Interactive contact form UI                 ║
+║  ⚡  Lightweight — zero frameworks used          ║
 ╚══════════════════════════════════════════════════╝
 ```
 
